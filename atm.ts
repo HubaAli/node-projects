@@ -16,7 +16,7 @@ const credentials =  await inquirer.prompt([
     },
 ])
 
-let id: string= "hamza"
+let id: string= "huba"
 let pin: string= "1234"
 
 function bank(name:string,amount:string)
